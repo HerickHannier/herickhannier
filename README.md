@@ -13,8 +13,9 @@ Aqui estão algumas idéias para você começar:
 - 📫 Como entrar em contato comigo: ...
 - 😄 Pronomes: ...
 - ⚡ Curiosidade: ...
-- ![Snake animation](https://github.com/herickhannier/herickhannier/blob/output/github-contribution-grid-snake.svg)
+- 
 -->
+  ![Snake animation](https://github.com/herickhannier/herickhannier/blob/output/github-contribution-grid-snake.svg)
   <div>
 <a href="https://github.com/herickhannier">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herickhannier&layout=compact&langs_count=7&theme=dracula"/>
