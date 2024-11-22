@@ -4,8 +4,8 @@
 <p align="center">I ❤️ developing innovative web solutions. <br><br> As a freelance web developer, I specialize in creating websites, landing pages, e-commerce sites, blogs, and more. With a focus on <strong>HTML, CSS, JavaScript, and PHP</strong>, I am <strong>passionate about crafting user-centric experiences</strong> and leveraging technology for high-quality solutions.</p>&nbsp;
 
 <div align="center" style="margin-bottom:100px">
-<img width=48% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=RicardoMouraa&theme=dracula&mode=weekly" />
-<img width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoMouraa&show_icons=true&theme=dracula&layout=compact" />
+<img width=48% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=herickhannier&theme=dracula&mode=weekly" />
+<img width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herickhannier&show_icons=true&theme=dracula&layout=compact" />
 </div>
  
 &nbsp;
