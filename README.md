@@ -1,25 +1,15 @@
-## Olá pessoal 👋
+<img align="center" width=100% src="https://github.com/RicardoMouraa/RicardoMouraa/assets/106688139/a23c252f-6a3d-42d8-96a0-0d6a3839fb96"/>
+&nbsp;&nbsp;&nbsp;
 
-<! --
-**camilafernanda2/camilafernanda2** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
+<p align="center">I ❤️ developing innovative web solutions. <br><br> As a freelance web developer, I specialize in creating websites, landing pages, e-commerce sites, blogs, and more. With a focus on <strong>HTML, CSS, JavaScript, and PHP</strong>, I am <strong>passionate about crafting user-centric experiences</strong> and leveraging technology for high-quality solutions.</p>&nbsp;
 
-Aqui estão algumas idéias para você começar:
-
-- 🔭 Atualmente estou trabalhando em ...
-- 🌱 Atualmente estou aprendendo ...
-- 👯 Estou procurando colaborar em ...
-- 🤔 Estou procurando ajuda com ...
-- 💬 Pergunte-me sobre ...
-- 📫 Como entrar em contato comigo: ...
-- 😄 Pronomes: ...
-- ⚡ Curiosidade: ...
-- 
--->
-  <div>
-<a href="https://github.com/herickhannier">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herickhannier&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=herickhannier&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="center" style="margin-bottom:100px">
+<img width=48% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=RicardoMouraa&theme=dracula&mode=weekly" />
+<img width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoMouraa&show_icons=true&theme=dracula&layout=compact" />
 </div>
+ 
+&nbsp;
+&nbsp;
   
 ## My Skills
 
