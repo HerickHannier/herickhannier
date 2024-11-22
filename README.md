@@ -1,7 +1,4 @@
-<img align="center" width=100% src="https://github.com/RicardoMouraa/RicardoMouraa/assets/106688139/a23c252f-6a3d-42d8-96a0-0d6a3839fb96"/>
-&nbsp;&nbsp;&nbsp;
-
-<p align="center">I ❤️ developing innovative web solutions. <br><br> As a freelance web developer, I specialize in creating websites, landing pages, e-commerce sites, blogs, and more. With a focus on <strong>HTML, CSS, JavaScript, and PHP</strong>, I am <strong>passionate about crafting user-centric experiences</strong> and leveraging technology for high-quality solutions.</p>&nbsp;
+<p align="center">Eu ❤️ desenvolvo soluções web inovadoras. <br><br> Como desenvolvedor web iniciante, me dedico à criação de sites, landing pages e blogs, utilizando <strong>HTML, CSS e JavaScript</strong>. Sou <strong>entusiasta de boas práticas de design</strong> e busco entregar interfaces intuitivas e funcionais, combinando criatividade e eficiência em cada projeto.</p>&nbsp;
 
 <div align="center" style="margin-bottom:100px">
 <img width=48% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=herickhannier&theme=dracula&mode=weekly" />
